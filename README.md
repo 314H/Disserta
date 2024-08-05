@@ -1,4 +1,4 @@
-# Projeto de Dissertação: Análise de Dados no Ecossistema Open Finance
+# Projeto de Dissertação - Proposta de Arquitetura para Cibersegurança no Open Finance: O Poder da Análise com Grafos
 
 ## Visão Geral
 Este repositório contém scripts e arquivos de consulta desenvolvidos para simulação de dados e análise de grafos no contexto do Open Finance. O projeto faz parte da dissertação do Mestrado em Computação Aplicada do Instituto de Pesquisas Tecnológicas (IPT) e contribui para a pesquisa e desenvolvimento no mercado financeiro.
@@ -26,7 +26,7 @@ Este repositório contém scripts e arquivos de consulta desenvolvidos para simu
 
 #### SimulaImportCSV.py
 - **Função**: Gera dados sintéticos simulando logs de API e eventos do MISP (Malware Information Sharing Platform).
-- **Saída**: Arquivos CSV na pasta `Datasets`.
+- **Saída**: Arquivos CSV - `Datasets`.
 - **Uso**: Execute o script Python para gerar os datasets.
 
 ### Consultas

@@ -15,8 +15,8 @@ Este repositório contém scripts e arquivos de consulta desenvolvidos para simu
 │   ├── consultas.cypher
 │   └── kg.cypher
 ├── Datasets
-│   ├── eventos_misp.csv
-│   └── logs_api.csv
+│   ├── eventos_misp.csv (links)
+│   └── logs_api.csv (links)
 └── README.md
 ```
 
@@ -49,7 +49,7 @@ Este repositório contém scripts e arquivos de consulta desenvolvidos para simu
 - **Operações**: Criação de nós e arestas, consultas para extração de informações.
 - **Uso**: Execute na interface de consulta Neo4j.
 
-### Datasets
+### Datasets (links)
 
 - **eventos_misp.csv**: Contém eventos simulados do MISP.
 - **logs_api.csv**: Contém logs simulados de API.
